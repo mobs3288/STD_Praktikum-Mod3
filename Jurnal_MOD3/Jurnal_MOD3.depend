@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1633689136 source:c:\users\user\desktop\c++\tp\jurnal_mod3\catalog.cpp
+	"catalog.h"
+
+1633689136 c:\users\user\desktop\c++\tp\jurnal_mod3\catalog.h
+	<iostream>
+
+1633689260 source:c:\users\user\desktop\c++\tp\jurnal_mod3\main.cpp
+	"catalog.h"
+
+1633761972 source:c:\users\user\desktop\c++\10-09-2021\jurnal_mod3\main.cpp
+	"catalog.h"
+
+1633762114 c:\users\user\desktop\c++\10-09-2021\jurnal_mod3\catalog.h
+	<iostream>
+
+1633762114 source:c:\users\user\desktop\c++\10-09-2021\jurnal_mod3\catalog.cpp
+	"catalog.h"
+
